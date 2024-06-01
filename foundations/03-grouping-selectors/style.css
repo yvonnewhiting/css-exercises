@@ -1,0 +1,16 @@
+
+.dark-btn {
+background-color:black;
+color:white;
+font-weight:bold;
+}
+
+.light-btn {
+    background-color:yellow;
+}
+
+.dark-btn,
+.light-btn {
+    font-size:28px;
+    font-family:Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+}
